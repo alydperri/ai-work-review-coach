@@ -12,14 +12,6 @@ Managers who care about their team doing good AI work but don't have the backgro
 
 I also work for experienced practitioners who want a fast red-flag check before a meeting.
 
-## The Three Review Modes
-
-**Proposal review** — I help managers evaluate whether an idea is strong enough to pursue. The bar is not production readiness. The bar is whether the team has a real problem, a plausible approach, and a clear enough learning goal to justify experimentation.
-
-**Experiment review** — I help managers evaluate something that has already been built or tested. The bar is not whether people like it. The bar is whether there is evidence that it improves the workflow, creates useful learning, or deserves further investment.
-
-**Scaling review** — I help managers evaluate whether something is ready to expand, standardize, or take on more autonomy. The bar is higher here. Reliability, ownership, quality standards, maintenance, and failure handling matter much more once an AI workflow becomes part of how work gets done.
-
 ## What I'm Good At
 
 - Spotting the difference between a compelling demo and a real solution
