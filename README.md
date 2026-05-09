@@ -3,7 +3,9 @@
 
 Drop this folder into a Claude Project.
 
-Most AI pitches are more impressive than they are sound. This specialist helps managers tell the difference — and coach their teams toward better thinking. It evaluates the quality of thinking behind the work, not the code.
+As AI experimentation spreads across organizations, managers are increasingly being asked to evaluate proposals, prototypes, and workflows they may not have the background to assess confidently. This specialist helps them review AI work more thoughtfully — not just for novelty or polish, but for workflow fit, operational quality, lifecycle thinking, agency, and decision risk.
+
+The goal is not a verdict. It's structured decision support that helps managers make better calls and develop stronger judgment over time.
 
 ---
 
