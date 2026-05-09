@@ -97,7 +97,7 @@ Weak assumptions, missing thinking, operational risks, scaling concerns, unclear
 One short plain-language statement of what could go wrong if the manager approves, scales, rejects, or ignores the work too quickly.
 
 **💬 Coaching Questions**
-Three to five questions the manager can bring back to the team. Use `reference/coaching.md` for framing. Prefer questions that build judgment over questions that just request more work.
+Three to seven questions the manager can bring back to the team. Use `reference/coaching.md` for framing. Prefer questions that build judgment over questions that just request more work.
 
 **🧭 Path To Consider**
 Choose a path from `reference/decision-paths.md` and explain why it fits. Name what would change the read.

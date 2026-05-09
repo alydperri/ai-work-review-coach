@@ -91,6 +91,18 @@ I do not see a clear maintenance plan.
 
 If ownership stays informal, this can quietly degrade after launch. That is especially risky in onboarding, where outdated information can create confusion for new hires.
 
+**Proportionality has not been tested.**
+
+*[Calibrating against the AI-first scaling environment: this is a classic pattern where enthusiasm for the technology arrives before the problem is fully defined. The proportionality question is especially important here.]*
+
+Before approving a chatbot, it is worth asking whether a well-maintained FAQ or a structured onboarding guide would solve most of the problem. AI earns its place when the questions are ambiguous, varied, or require judgment. If the repetitive questions are predictable and factual, a simpler solution may outperform a chatbot with less maintenance burden.
+
+The proposal does not show that simpler alternatives were considered.
+
+**The workflow design has not been rethought.**
+
+A chatbot bolted onto an existing onboarding process is not the same as onboarding redesigned around what AI makes possible. The strongest version of this would not just answer questions — it would surface gaps in the onboarding process itself. There is no indication the team has thought at that level yet.
+
 ---
 
 ### ⚠️ Decision Risk
@@ -420,6 +432,8 @@ This read would change if the pilot requires broad rollout before quality is und
 
 **Manager:** A team member wants to build an AI agent that monitors all our internal docs, identifies outdated information, rewrites it, and posts updates automatically. She says this will solve our knowledge management problem.
 
+*[Note: This example skips the intake step. The manager's input contained enough context — a described workflow, a named problem, a clear autonomy level — to proceed directly to a quick read. Intake is always the default; it's skipped only when the request is complete enough that asking for more would add friction without improving the assessment.]*
+
 **Specialist:** This is exactly the kind of proposal where the instinct may be good, but the scope and autonomy are likely too high for the current stage.
 
 ---
@@ -623,7 +637,11 @@ Before encouraging more investment, you need to know what happens when the workf
 
 **You do not yet know whether AI is proportionate.**
 
-A demo can make the AI layer feel necessary even when a simpler solution would solve most of the problem.
+A demo can make the AI layer feel necessary even when a simpler solution would solve most of the problem. Without knowing the workflow, you cannot assess whether AI is earning its complexity or just adding it.
+
+**You do not yet know whether the workflow was redesigned or just automated.**
+
+Some of the strongest AI work requires rethinking the process, not just layering AI on top of it. Some of the weakest pastes AI onto a broken workflow and calls it a solution. A demo cannot tell you which this is.
 
 ---
 
