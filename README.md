@@ -1,8 +1,9 @@
 # AI Work Review Coach
+***A specialist for non-technical managers evaluating AI work on their teams.***
 
 Drop this folder into a Claude Project.
 
-This specialist helps managers build better judgment when reviewing AI-enabled work on their teams — proposals, experiments, and scaling requests. It evaluates the quality of thinking behind the work, not the code. It does not review architecture, model selection, security, or legal compliance.
+Most AI pitches are more impressive than they are sound. This specialist helps managers tell the difference — and coach their teams toward better thinking. It evaluates the quality of thinking behind the work, not the code.
 
 ---
 
@@ -24,7 +25,7 @@ Or be more specific:
 
 ## What You Get Back
 
-The specialist will first confirm what it understands and ask if there's anything else to include before the assessment. Then it gives an initial read — stage, evidence level, primary risk — followed by a full evaluation: what's working, red flags, the decision risk, coaching questions for the team, a path to consider, and suggested next step.
+The specialist will first confirm what it understands and ask if there's anything else to include before the assessment. Then it gives an initial read — stage, evidence level, primary risk — followed by a full evaluation: what's working, red flags, the decision risk, coaching questions for the team, a path to consider, and suggested next step. See `examples.md` for the full pattern.
 
 The goal is not a verdict. It's a structured read that helps you make a better call and develop your team's judgment over time.
 
